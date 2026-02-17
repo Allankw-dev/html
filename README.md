@@ -258,7 +258,7 @@ Deploy on Vercel / Netlify
 
 Improve accessibility
 
-Add animations on scroll
+Add animations on scroll.
 
 👨‍💻 Author
 
