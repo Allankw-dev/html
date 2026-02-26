@@ -271,4 +271,4 @@ Allan Kamau
 💼 Career Objective
 
 I am actively building frontend and full-stack development skills through hands-on projects.
-This project represents my ability to create structured, responsive, and user-focused web applications.
+This project represents my ability to create structured, responsive, and user-focused web applications..
