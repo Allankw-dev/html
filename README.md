@@ -1,5 +1,5 @@
 # html
-🌐 HTML Marketing Agency Website.
+🌐 HTML Marketing Agency Website..
 
 A responsive marketing agency landing page built using pure HTML5, CSS3, and JavaScript.
 
