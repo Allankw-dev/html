@@ -138,7 +138,7 @@ Here’s a job-ready, professional README with badges — the type that makes re
 
 Copy this into your README.md.
 
-🚀 Marketing Agency Landing Page
+🚀 Marketing Agency Landing Page.
 
 
 
