@@ -31,7 +31,7 @@ CSS3 (Flexbox, Responsive Design, Hover Effects)
 
 JavaScript (Form Validation)
 
-Google Fonts
+Google Fonts.
 
 📂 Project Structure
 marketing-agency/
