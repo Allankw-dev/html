@@ -5,7 +5,7 @@ A responsive marketing agency landing page built using pure HTML5, CSS3, and Jav
 
 This project demonstrates clean structure, semantic markup, responsive layout, and modern UI design principles..
 
-📌 Project Overview..
+📌 Project Overview.
 
 This website represents a digital marketing agency offering:
 
